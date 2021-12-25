@@ -17,9 +17,10 @@ Banglish.apk file.
 download link: https://haquei-x.itch.io/banglish
 
 
-![App Screenshot](images/1.jpg)
-![App Screenshot](images/2.jpg)
-![App Screenshot](images/3.jpg)
-![App Screenshot](images/4.jpg)
-![App Screenshot](images/5.jpg)
-![App Screenshot](images/6.jpg)
+![App Screenshot](images/1.PNG)
+![App Screenshot](images/2.PNG)
+![App Screenshot](images/3.PNG)
+![App Screenshot](images/4.PNG)
+![App Screenshot](images/5.PNG)
+![App Screenshot](images/6.PNG)
+![App Screenshot](images/7.PNG)
