@@ -56,12 +56,11 @@
     color: gainsboro;
     text-align: justify;
     height: 0;
-    overflow: hidden;
+    
 }
 
-.section:target{
-    height: auto;
-}
+
+
 
 .name{
     display: block;
