@@ -1,0 +1,74 @@
+#download{
+    background: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top:100px;
+    padding-top:50px;
+    padding-bottom:100px;
+}
+.logo{
+    position: relative;
+    top: 30;
+}
+.details{
+    color:white;
+    margin-left: 30px;
+    font-family: 'Dongle', sans-serif;
+    
+}
+.details h1{
+    font-family: 'Dongle', sans-serif;
+    font-size: 6rem;
+    margin-bottom: -38px;
+}
+.details h4{
+    font-family: 'Dongle', sans-serif;
+    font-size: 3.5rem;
+    margin-bottom: -5px
+}
+.details p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 2rem;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.details a{
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 31px;
+    padding: 4px 20px;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    background-color: rgb(223, 140, 46);
+    color: white;
+}
+.logo{
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.bg_new{
+    margin-top: 100px;
+    background: url(../img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(124, 124, 124);
+}
+.img{
+    position: relative;
+}
+.img1{
+    position: absolute;
+    top: -122px;
+    right: 49px;
+    
+}
+.img2{
+    position: absolute;
+    top: -152px;
+    right: 201px;
+    
+}
