@@ -24,3 +24,5 @@ download link: https://haquei-x.itch.io/banglish
 ![App Screenshot](images/5.PNG)
 ![App Screenshot](images/6.PNG)
 ![App Screenshot](images/7.PNG)
+![App Screenshot](images/8.PNG)
+![App Screenshot](images/9.PNG)
